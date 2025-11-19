@@ -4,6 +4,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import EADL.CRUD_PRODUIT.entity.Produit;
 
-public interface ProductRepository extends JpaRepository<Produit, Long>{
+public interface ProduitRepositorr extends JpaRepository<Produit, Long>{
 
 }
